@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://welkinyang.githun.io
+baseurl: 
+url: 
 date_format: "ordinal"
 title: Welkin
 subtitle: "深知变美的路 有些曲折"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Heyang Xue
 organization: 
-organization_url: 
+organization_url:  
 github_username: WelkinYang
 location: Xi’an, China
 email: geminiwelkin@gmail.com
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: https://github.com/WelkinYang/WelkinYang.github.io
 
 # ---------------- #
 #      Comments    #
