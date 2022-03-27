@@ -85,16 +85,16 @@ repository: https://github.com/fadianchang/fadianchang.github.io
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitalk
+# comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 # https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: fadianchang
-    repo: fadian
-    clientID: 686da9137f852fb0f801
-    clientSecret: 5195fd9603c4d7b9ffee3aef7e1f5f86283ec7d8
+# gitalk:
+#     owner: fadianchang
+#     repo: fadian
+#     clientID: 686da9137f852fb0f801
+#     clientSecret: 5195fd9603c4d7b9ffee3aef7e1f5f86283ec7d8
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
@@ -110,5 +110,5 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: UA-80669434-1
+# google:
+#     analytics_id: UA-80669434-1
