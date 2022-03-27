@@ -91,10 +91,10 @@ comments_provider: gitalk
 # https://disqus.com
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: WelkinYang
-    repo: Welkin
-    clientID: 3845f377dfe8d3909639
-    clientSecret: b7521f9fb6d44ed610ae16348fc8079d36eda413
+    owner: fadianchang
+    repo: fadian
+    clientID: 686da9137f852fb0f801
+    clientSecret: 5195fd9603c4d7b9ffee3aef7e1f5f86283ec7d8
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
