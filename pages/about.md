@@ -17,4 +17,3 @@ permalink: /about/
 <button class="btn btn-outline" type="button">{{ keyword }}</button>
 {% endfor %}
 </div>
-{% endfor %}
