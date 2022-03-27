@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://fadianchang.github.io
+url: http://fd.520520520.xyz
 date_format: "ordinal"
 title: 发电笔记
 subtitle: "发电笔记"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: 发电笔记
 organization: 
-organization_url: https://fadianchang.github.io
+organization_url: http://fd.520520520.xyz
 github_username: fadianchang
 
 # ---------------- #
