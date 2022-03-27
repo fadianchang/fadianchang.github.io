@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 绝对不要看 眼睛里的郁金香
-keywords: Zhuang Ma, 马壮
+description: 发电厂
+keywords: 发电厂
 comments: true
 menu: 关于
 permalink: /about/
