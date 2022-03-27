@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://welkinyang.github.io/ 
+url: https://fadianchang.github.io/ 
 date_format: "ordinal"
 title: Welkin
 subtitle: "深知变美的路 有些曲折"
@@ -17,10 +17,8 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Heyang Xue
 organization: 
-organization_url: https://welkinyang.github.io/
-github_username: WelkinYang
-location: Xi’an, China
-email: geminiwelkin@gmail.com
+organization_url: https://fadianchang.github.io/
+github_username: fadianchang
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +79,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: https://github.com/WelkinYang/WelkinYang.github.io
+repository: https://github.com/fadianchang/fadianchang.github.io
 
 # ---------------- #
 #      Comments    #
