@@ -8,17 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
-不要有趣 要有用
+本站为文章收集站
 
-## 联系
 
-{% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
-{% endfor %}
-
-## Skill Keywords
-
-{% for category in site.data.skills %}
 ### {{ category.name }}
 <div class="btn-inline">
 {% for keyword in category.keywords %}
