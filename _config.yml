@@ -4,10 +4,10 @@
 baseurl: 
 url: https://fadianchang.github.io
 date_format: "ordinal"
-title: Welkin
-subtitle: "深知变美的路 有些曲折"
-description: "speech synthesis/machine learning @ aslp, nwpu, Xi'an, ShannXi, China"
-keywords: Welkin, GeMiniWelkin, Singng synthesis
+title: 发电笔记
+subtitle: "发电笔记"
+description: "发电笔记"
+keywords: 发电笔记
 timezone: Asia/Xi’an
 encoding: "utf-8"
 side_bar_repo_limit: 5
